@@ -1,1 +1,11 @@
-0x2Ff9F71Ed8f7a188a8471745a4C9Be076F4e22a7/info.json
+{
+  "name": "ALC Coin",
+  "website": "https://aanandmylifecare.com/",
+  "description": "ALC Coin official token",
+  "explorer": "https://bscscan.com/token/0x2Ff9F71Ed8f7a188a8471745a4C9Be076F4e22a7",
+  "type": "BEP20",
+  "symbol": "ALC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x2Ff9F71Ed8f7a188a8471745a4C9Be076F4e22a7"
+}
