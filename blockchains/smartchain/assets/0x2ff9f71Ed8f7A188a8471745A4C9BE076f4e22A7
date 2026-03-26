@@ -1,0 +1,24 @@
+{
+  "name": "ALC Coin",
+  "website": "https://aanandmylifecare.com/",
+  "description": "ALC Coin official token",
+  "explorer": "https://bscscan.com/token/0x2ff9f71Ed8f7A188a8471745A4C9BE076f4e22A7",
+  "type": "BEP20",
+  "symbol": "ALC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x2ff9f71Ed8f7A188a8471745A4C9BE076f4e22A7",
+  "links": [
+    {
+      "name": "website",
+      "url": "https://aanandmylifecare.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/alc_coin"
+    }
+  ],
+  "tags": [
+    "defi"
+  ]
+}
